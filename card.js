@@ -20,6 +20,17 @@ const references = [
       "I have worked closely with Teila since she became my Legal Assistant a year ago. Collaborating daily in a pandemic poses a unique set of challenges, but Teila has shown time and time again that she has the creativity and dedication to excel in a rapidly evolving workplace. On many occasions, Teila has helped me streamline my work processes and increase our team’s effectiveness and productivity. Her technical insight makes her an invaluable part of our team and a tremendous asset to Progressive as a whole. Even though we have not been able to work in the office together, Teila does an excellent job of communicating and building relationships in the remote environment. Teila has the expertise and demeanor required to thrive in challenging circumstances, and I have the utmost confidence she will flourish in this new role with Progressive.",
   },
   {
+    Name: "Victoria King - Support Staff Supervisor",
+    Comment:
+      "Overall Teila Garraway is great co-worker and a fantastic friend. Teila is always willing to help with her co-workers’ workload if need be.  She’s volunteered to go into the office to help mail documents since the beginning of the pandemic.  It also helps that Teila is very knowledgeable about computers and the programs we use here in House Counsel.  She even hosts a Tech Tip Tuesday with Teila where she discusses and instructs her peers on different computer / program related issues.  I met Teila four years ago.  Teila was very standoffish, however, I was determined to be her friend.  I chipped away at her rough exterior until I wore her down and we’ve been friends ever since. If you have the pleasure of hiring Teila, you won’t regret it. ",
+  },
+  {
+    Name: "Denise Cummings - Admisnistrative Assistant (Lead)",
+    Comment:
+      "Overall Teila Garraway is great co-worker and a fantastic friend. Teila is always willing to help with her co-workers’ workload if need be.  She’s volunteered to go into the office to help mail documents since the beginning of the pandemic.  It also helps that Teila is very knowledgeable about computers and the programs we use here in House Counsel.  She even hosts a Tech Tip Tuesday with Teila where she discusses and instructs her peers on different computer / program related issues.  I met Teila four years ago.  Teila was very standoffish, however, I was determined to be her friend.  I chipped away at her rough exterior until I wore her down and we’ve been friends ever since. If you have the pleasure of hiring Teila, you won’t regret it. ",
+  },
+
+  {
     Name: "Janelle Bowden - Legal Assistant I",
     Comment:
       "Let me start off by saying that Teila is a GREAT person overall. But within the past 3 years of me being with Progressive she has made my job so much easier just through technology. Being able to navigate through the computer with ease definitely allows you to complete your task quickly and efficiently. For someone like me that started off not being very computer literate – Teila organized my computer in a way where I could find all of my links, notes, and steps to completing a task so easily just by sharing my screen with her virtually. I know she will be a great asset to any team.",
@@ -49,11 +60,7 @@ const references = [
     Comment:
       "First off, and this is me being selfish, I do NOT want you to leave your current position 😊 But with all seriousness, where you work will have absolutely no bearing on your job performance. You are definitely not the type of person that needs to be baby sat.You take pride in your work and it shows. You are a self-starter, quick learner, and a person that follows through.There has never been one time that I’ve reached out to you with a question or need that you didn’t respond back to me immediately. Not 24 hours later. Immediately.And aside from your excellent job performance you ALWAYS have an upbeat and positive attitude! Proof..Even after this past year, with Covid, my inventory alone running 250 features (I cannot imagine the case load on the defense attorney side that you had to deal with)… Teila, that speaks volumes and clearly shows you can handle anything.",
   },
-  {
-    Name: "Victoria King - Support Staff Supervisor",
-    Comment:
-      "Overall Teila Garraway is great co-worker and a fantastic friend. Teila is always willing to help with her co-workers’ workload if need be.  She’s volunteered to go into the office to help mail documents since the beginning of the pandemic.  It also helps that Teila is very knowledgeable about computers and the programs we use here in House Counsel.  She even hosts a Tech Tip Tuesday with Teila where she discusses and instructs her peers on different computer / program related issues.  I met Teila four years ago.  Teila was very standoffish, however, I was determined to be her friend.  I chipped away at her rough exterior until I wore her down and we’ve been friends ever since. If you have the pleasure of hiring Teila, you won’t regret it. ",
-  },
+
   {
     Name: "Nan Fisher - Legal Assitant II",
     Comment:
