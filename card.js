@@ -72,7 +72,11 @@ const references = [
       "To whom this may concern:  I’ve been with Progressive House Counsel for over 3 years and witness Teila hard-work, leadership and expertise.  She is not afraid to step up and lead a group whether it’s a meeting, community service, assisting in other areas or tech issues. I know she is capable and has the skills to be a Programming Developer, she has helped our team with many technical issues or concerns.  Last, I am proud of her recent achievement obtaining a certificate in Coding.   This shows how dedicated and passionate she is about the field. I know she will do extraordinary whenever she is because she has the mind-set to achieve any accomplishments pursued.",
   },
 ];
-
+window.addEventListener("DOMContentLoaded", (event) => {
+  const audio = document.querySelector("audio");
+  audio.volume = 0.2;
+  audio.play();
+});
 let index = 0;
 // const next = false;
 

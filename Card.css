@@ -105,13 +105,13 @@ body {
 }
 
 .envelope .front .mail p:first-child {
-  font-size: 50px;
-  line-height: 50px;
-  color: #96beff;
+  font-size: 30px;
+  line-height: 30px;
+  color: #0b4eec;
 }
 
 .envelope .front .mail p:last-child {
-  font-size: 30px;
+  font-size: 15px;
 }
 
 .envelope .back .letter p:nth-child(2) {
